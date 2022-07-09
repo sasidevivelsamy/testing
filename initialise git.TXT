@@ -1,0 +1,12 @@
+steps to initialise git in local machine (cmd)
+#*******************************************************
+
+init git
+git config --global user.name"sasi"
+git config --global user.email"test@gmail.com"
+git status
+git add program.py
+git commit -m "v1"
+
+#**********************************************************
+
