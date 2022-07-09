@@ -4,4 +4,4 @@ def Zen(number):
     else:
         return("odd")
 
-print(Zen(4))
+#print(Zen(4))
